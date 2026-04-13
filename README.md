@@ -1,7 +1,17 @@
 ## Hi there 👋
 
 # 💫 About Me:
-# 👨‍💻 Sachin Mahato<br><br>> "Turning logic into reality, one line of code at a time."<br><br>I started my journey with curiosity —  <br>“How do apps actually work?”  <br><br>Now, I build them.<br><br>🚀 Currently exploring:<br>- Data Structures & Algorithms in C++<br>- Backend Development with Java & Spring Boot<br>- Real-world problem solving<br><br>---<br><br>## ⚔️ My Arsenal<br><br>💻 C++ | Java  <br>🌐 Spring Boot  <br>🛢️ MySQL  <br>⚙️ Git & GitHub  <br><br>---<br><br>## 🧩 Featured Build<br><br>🚗 Car Rental System  <br>A full-stack backend-driven system where users can book, manage, and explore cars seamlessly.<br><br>---<br><br>## 🎯 Current Mission<br><br>- Crack DSA like a pro  <br>- Reach top ratings on Codeforces  <br>- Build scalable backend systems  <br><br>---<br><br>## 📡 Signal Me<br><br>📧 sachinnmahato529@gmail.com  <br>---<br><br>## ⚡ Hidden Trait<br><br>I don’t just write code — I debug life too 😄
+Turning logic into reality, one line of code at a time.
+I started my journey with a simple question —
+“How do apps actually work?”
+Now, I’m building them and learning something new every day.
+🚀 Currently exploring:
+-Data Structures & Algorithms in C++
+-Backend Development with Java & Spring Boot
+-Real-world problem solving
+
+Hidden Trait:
+I don’t just write code — I debug life too 😄
 
 
 ## 🌐 Socials:
